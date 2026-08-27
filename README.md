@@ -101,10 +101,13 @@ You can use Swagger's **Try it out** feature directly in your browser to execute
 |                     [ ADD YOUR SWAGGER SCREENSHOT HERE ]              |
 |                                                                       |
 |   1. Open http://localhost:8000/docs in your browser.                 |
-|   2. Expand any endpoint (e.g., POST /tasks) and click "Try it out".   |
+|   2. Expand any endpoint (e.g., POST /tasks) and click "Try it out".   
 |   3. Take a screenshot showing the endpoints and paste/embed it here! |
 |                                                                       |
 +-----------------------------------------------------------------------+
+
+<img width="938" height="524" alt="image" src="https://github.com/user-attachments/assets/ca3d1681-052b-40de-a462-109e6e21f18b" />
+
 ```
 
 ---
