@@ -1,4 +1,3 @@
-![Uploading swagger_screenshot.png…]()
 # CRUD Task API
 
 A beginner-friendly REST-style Task Management API built with **Python 3.10+** and **FastAPI**. This API allows users to perform full CRUD (Create, Read, Update, Delete) operations on a task list stored in-memory.
@@ -95,19 +94,7 @@ FastAPI automatically generates interactive API documentation powered by Swagger
 You can use Swagger's **Try it out** feature directly in your browser to execute requests against all endpoints without needing external tools.
 
 ### 📸 Screenshot Placeholder for Submission
-```text
-+-----------------------------------------------------------------------+
-|                                                                       |
-|                     [ ADD YOUR SWAGGER SCREENSHOT HERE ]              |
-|                                                                       |
-|   1. Open http://localhost:8000/docs in your browser.                 |
-|   2. Expand any endpoint (e.g., POST /tasks) and click "Try it out".   
-|   3. Take a screenshot showing the endpoints and paste/embed it here! |
-|                                                                       |
-+-----------------------------------------------------------------------+
 
-
-```
 <img width="938" height="524" alt="image" src="https://github.com/user-attachments/assets/64a9c275-5cf6-47bb-a768-2f58b226606a" />
 
 ---
