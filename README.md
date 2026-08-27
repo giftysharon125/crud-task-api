@@ -1,3 +1,4 @@
+![Uploading swagger_screenshot.png…]()
 # CRUD Task API
 
 A beginner-friendly REST-style Task Management API built with **Python 3.10+** and **FastAPI**. This API allows users to perform full CRUD (Create, Read, Update, Delete) operations on a task list stored in-memory.
