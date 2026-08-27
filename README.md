@@ -106,9 +106,9 @@ You can use Swagger's **Try it out** feature directly in your browser to execute
 |                                                                       |
 +-----------------------------------------------------------------------+
 
-<img width="938" height="524" alt="image" src="https://github.com/user-attachments/assets/ca3d1681-052b-40de-a462-109e6e21f18b" />
 
 ```
+<img width="938" height="524" alt="image" src="https://github.com/user-attachments/assets/64a9c275-5cf6-47bb-a768-2f58b226606a" />
 
 ---
 
